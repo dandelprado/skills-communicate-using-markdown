@@ -1,4 +1,6 @@
-# Changes
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world# Changes
 ## This is h2
 ### This is h3
 #### This is h4
@@ -22,3 +24,7 @@ System.out.println();
 ```python
 print("Hello, world")
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
